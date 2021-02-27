@@ -1,0 +1,4 @@
+stm32g4xx_it.c:80:6:FDCAN1_IT0_IRQHandler	0	static
+stm32g4xx_it.c:94:6:FDCAN1_IT1_IRQHandler	0	static
+stm32g4xx_it.c:108:6:TIM2_IRQHandler	0	static
+stm32g4xx_it.c:122:6:TIM3_IRQHandler	0	static

@@ -1,0 +1,8 @@
+main.c:194:6:SystemClock_Config	160	static
+main.c:1051:6:Stop	8	static
+main.c:1057:6:HAL_FDCAN_RxFifo0Callback	96	static
+main.c:1114:6:Motor_Init	8	static
+main.c:1125:6:Send_CAN	56	static
+main.c:1143:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:1162:6:Error_Handler	8	static
+main.c:122:5:main	168	static
